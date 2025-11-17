@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace ClassCodeAll.StatementsExpressionAndOperators.Selection_Construct_or_Statement
 {
-    internal class p1if
+    internal class p1if_else
     {
         static void Main(string[] args)
         {
-            
+
             int a = 10;
             int b = 20;
 
-            if (a < b )
+            if (a < b)
             {
                 Console.WriteLine("a is less than b");
             }
@@ -42,6 +42,7 @@ namespace ClassCodeAll.StatementsExpressionAndOperators.Selection_Construct_or_S
             string? userName = Console.ReadLine();
 
             Console.Write("Enter your password: ");
+            
             int password = Convert.ToInt32(Console.ReadLine());
 
             if (userName == "Raj" && password == 123)

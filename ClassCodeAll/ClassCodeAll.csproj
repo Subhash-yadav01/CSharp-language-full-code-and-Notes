@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>ClassCodeAll.StatementsExpressionAndOperators.Selection_Construct_or_Statement.p1if</StartupObject>
+	  <StartupObject>ClassCodeAll.StatementsExpressionAndOperators.Selection_Construct_or_Statement.JumpStatement.p3goto</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
